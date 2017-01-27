@@ -1,0 +1,97 @@
+[09-May-2016 12:57:58 UTC] PHP Parse error:  syntax error, unexpected 'MAIL' (T_STRING) in /home/paramen1/public_html/assets/lang/es.php on line 7
+[26-Jul-2016 20:54:46 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 20:58:00 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 20:58:13 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 20:58:49 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 20:59:50 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 20:59:52 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:00:26 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:01:53 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:01:53 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:13:46 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:29:08 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:29:09 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:29:45 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:29:59 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:30:04 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:30:33 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:31:17 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:31:28 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:31:44 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:32:26 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 21:46:17 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 22:13:37 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 22:18:22 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 23:03:12 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 23:11:46 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 23:12:59 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 23:15:33 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[26-Jul-2016 23:48:14 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 00:28:15 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 01:32:43 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 01:34:38 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 01:40:56 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 03:56:32 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 03:58:58 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 05:23:21 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 07:02:44 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 08:15:24 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 09:18:02 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 09:18:23 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 09:18:28 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 09:18:30 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 09:39:05 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 09:39:38 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 09:47:45 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 10:21:13 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 10:41:33 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:00:52 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:00:54 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:00:59 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:03:14 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:18:08 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:18:18 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:23:54 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:44:35 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:50:06 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:57:35 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 11:58:53 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:06:21 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:08:07 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:08:38 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:21:29 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:21:52 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:21:52 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:22:10 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:59:23 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 12:59:30 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 13:09:51 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 13:21:26 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 13:23:35 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[27-Jul-2016 13:26:20 America/Santiago] PHP Fatal error:  Call to undefined function mysqli_init() in /home/paramen1/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[17-Aug-2016 23:48:23 America/Santiago] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/paramen1/public_html/application/views/tienda.php on line 35
+[18-Aug-2016 00:02:26 America/Santiago] PHP Parse error:  syntax error, unexpected '' class='' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/paramen1/public_html/application/views/tienda.php on line 31
+[18-Aug-2016 01:33:40 America/Santiago] PHP Fatal error:  Call to undefined function index() in /home/paramen1/public_html/application/controllers/Tienda.php on line 74
+[18-Aug-2016 01:47:30 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/paramen1/public_html/application/views/tienda.php on line 188
+[18-Aug-2016 01:59:03 America/Santiago] PHP Fatal error:  Call to undefined function post() in /home/paramen1/public_html/application/controllers/Tienda.php on line 106
+[18-Aug-2016 02:03:34 America/Santiago] PHP Fatal error:  Call to undefined function post() in /home/paramen1/public_html/application/controllers/Tienda.php on line 68
+[18-Aug-2016 02:06:44 America/Santiago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/paramen1/public_html/application/controllers/Tienda.php on line 106
+[18-Aug-2016 02:06:45 America/Santiago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/paramen1/public_html/application/controllers/Tienda.php on line 106
+[18-Aug-2016 02:06:47 America/Santiago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/paramen1/public_html/application/controllers/Tienda.php on line 106
+[18-Aug-2016 02:09:01 America/Santiago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/paramen1/public_html/application/controllers/Tienda.php on line 107
+[31-Aug-2016 14:59:32 America/Santiago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/paramen1/public_html/application/views/producto.php on line 400
+[18-Sep-2016 21:43:46 America/Santiago] PHP Fatal error:  Call to undefined method Global_model::listar_videos() in /home/paramen1/public_html/application/controllers/Videos.php on line 31
+[23-Sep-2016 16:55:23 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/paramen1/public_html/application/views/header.php on line 118
+[23-Sep-2016 16:55:23 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/paramen1/public_html/application/views/header.php on line 118
+[23-Sep-2016 16:55:27 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/paramen1/public_html/application/views/header.php on line 118
+[23-Sep-2016 16:55:27 America/Santiago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/paramen1/public_html/application/views/header.php on line 118
+[12-Jan-2017 11:19:48 America/Santiago] PHP Parse error:  syntax error, unexpected '".base_url()."' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/paramen1/public_html/application/views/producto.php on line 30
+[12-Jan-2017 11:20:37 America/Santiago] PHP Parse error:  syntax error, unexpected ''.base_url()."assets/img/banne' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/paramen1/public_html/application/views/producto.php on line 30
+[12-Jan-2017 11:21:26 America/Santiago] PHP Parse error:  syntax error, unexpected ''.base_url()."assets/img/banne' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/paramen1/public_html/application/views/producto.php on line 30
+[12-Jan-2017 11:21:29 America/Santiago] PHP Parse error:  syntax error, unexpected ''.base_url()."assets/img/banne' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/paramen1/public_html/application/views/producto.php on line 30
+[12-Jan-2017 11:22:33 America/Santiago] PHP Parse error:  syntax error, unexpected ''.base_url()."assets/img/banne' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/paramen1/public_html/application/views/producto.php on line 30
+[12-Jan-2017 11:24:49 America/Santiago] PHP Parse error:  syntax error, unexpected 'divider' (T_STRING), expecting ',' or ';' in /home/paramen1/public_html/application/views/producto.php on line 32
+[12-Jan-2017 11:28:02 America/Santiago] PHP Parse error:  syntax error, unexpected '.' in /home/paramen1/public_html/application/views/producto.php on line 26
+[12-Jan-2017 13:54:07 America/Santiago] PHP Parse error:  syntax error, unexpected ';' in /home/paramen1/public_html/application/views/producto.php on line 27
+[23-Jan-2017 13:34:33 America/Santiago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/paramen1/public_html/application/views/tienda.php on line 30
+[23-Jan-2017 13:34:35 America/Santiago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/paramen1/public_html/application/views/tienda.php on line 30
